@@ -40,7 +40,8 @@
   },
   "require-dev": {
     "wpackagist/debug-bar": "0.8.*",
-    "wpackagist/sqlite-integration": "1.5.*"
+    "wpackagist/sqlite-integration": "1.5.*",
+    "wpackagist/wp-example-content": "1.2.*"
   },
   "extra": {
     "webroot-dir": "public",
